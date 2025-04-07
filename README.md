@@ -25,3 +25,5 @@ RLE works best when the input data has lots of repeated characters. If the input
 In summary, this program helps students and learners grasp both a useful algorithm and core C programming techniques at the same time. It reinforces the concept of loops, arrays, and conditional logic, while also providing insight into how repeated data can be handled more efficiently. It’s an ideal starting point for anyone who wants to explore the world of data compression or improve their problem-solving skills with a real-world coding exercise.
 
 #OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/c5f19179-9f2b-4866-aca0-1d58c67e3210)
